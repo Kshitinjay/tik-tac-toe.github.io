@@ -33,9 +33,9 @@ h1 {
   font-size: 60px;
   color: white;
 }
-//.cell:hover{
-//  background-color: cyan;
-//}
+/* .cell:hover{
+  background-color: cyan;
+} */
 .game--status{
   font-family: "Permanent Marker", cursive;
     font-size: 30px;
